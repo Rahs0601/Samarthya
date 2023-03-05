@@ -1,4 +1,4 @@
-# 2-Day Boot Camp Readme
+# 2-Day Boot Camp
 
 ## Day 1: 09/02/23
 - 9:30 AM - 10:00 AM: Inauguration
